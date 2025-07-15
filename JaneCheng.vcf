@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Cheng;Jane;;;
+FN:Jane Cheng
+ORG:Tudor (Sincere Watch Limited)
+TITLE:Senior Customer Relations Consultant
+TEL;TYPE=CELL,VOICE:+6588144007
+TEL;TYPE=WORK,VOICE:+6566887170
+EMAIL:jane.cheng@sincere.com.sg
+URL:https://www.sincerewatch.com
+ADR;TYPE=WORK:;;2 Bayfront Avenue, The Shoppes at MBS, #B2M-201;;;018972;Singapore
+END:VCARD
